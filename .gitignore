@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+masculinity.csv
+
+# Solution
+Masculinity_Project_Solution.ipynb
+
+# pdf
+masculinity-survey.pdf
+
+# files
+.ipynb_checkpoints
+.DS_Store
